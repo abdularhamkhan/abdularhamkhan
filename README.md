@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [primer](https://github.com/abdularhamkhan/primer)
 
-- 🌱 I’m currently learning **Springboot, Microservices and Kafka**
+- 🌱 I’m currently learning **Python Ecossystem, Microservices and Kafka**
 
 - 👯 I’m looking to collaborate on [zuko](https://github.com/shehryar49/zuko)
 
