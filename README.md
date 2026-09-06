@@ -7,13 +7,16 @@
 
 - 🌱 I’m currently learning **Backend Syetms at Scale, AI Workflows, Infrastrcuture and Security**
 
+- 💬 Ask me about **Backend Systems, Database Designs, System Design and Architecture**
+
+- 🗣️ I  Engineer AI voice agents and deploy production-grade systems optimized for low-latency, real-time interactions.
+
 - 👯 I’m looking to collaborate on [Algorithms](https://github.com/TheAlgorithms/TypeScript)
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdularhamkhan](https://github.com/abdularhamkhan)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdul-arham-khan/](https://www.linkedin.com/in/abdul-arham-khan/)
 
-- 💬 Ask me about **Backend Systems, Database Designs, System Design and Architecture**
 
 - 📫 How to reach me **theabdularhamkhan@gmail.com**
 
