@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdul-arham-khan/](https://www.linkedin.com/in/abdul-arham-khan/)
 
-- 💬 Ask me about **React, React Native, Nodejs**
+- 💬 Ask me about **Backend Systems, Database Designs, System Design and Architecture**
 
 - 📫 How to reach me **theabdularhamkhan@gmail.com**
 
