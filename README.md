@@ -59,7 +59,18 @@
 <p align="left">
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+    alt="NestJS"
+    width="40"
+    height="40"
+  />
+</a>
+
+
+
+
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   </a>
@@ -69,9 +80,14 @@
   <a href="https://supabase.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
   </a>
-  <a href="https://www.convex.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/convex/convex-icon.svg" alt="convex" width="40" height="40"/>
-  </a>
+ <a href="https://www.convex.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/convex.svg"
+    alt="Convex"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
 
 <h4 align="left">Databases & Storage</h4>
